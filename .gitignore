@@ -15,3 +15,7 @@ evidence/
 __pycache__/
 .venv/
 .DS_Store
+*.evtx
+*.vmdk
+.env
+*.key
