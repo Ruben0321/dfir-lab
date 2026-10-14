@@ -1,0 +1,17 @@
+# Never commit evidence or large binaries
+*.E01
+*.e01
+*.raw
+*.dd
+*.img
+*.vmem
+*.mem
+*.dmp
+*.pcap
+*.pcapng
+*.zip
+*.7z
+evidence/
+__pycache__/
+.venv/
+.DS_Store
